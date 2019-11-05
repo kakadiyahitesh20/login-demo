@@ -27,7 +27,7 @@
 		"joi-objectid": "*",
 		"lab": "^14.3.2",
 		"lodash": "^4.17.4",
-		"mongoose": "^4.13.7",
+		"mongoose": "^5.7.5",
 		"nodemailer": "^5.1.1",
 		"ono": "^4.0.2",
 		"react": "^15.6.2",
