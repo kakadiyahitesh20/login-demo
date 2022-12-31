@@ -31,9 +31,9 @@
 		"nodemailer": "^5.1.1",
 		"ono": "^4.0.2",
 		"react": "^15.6.2",
-		"swagger-ui": "^3.6.1",
+		"swagger-ui": "^3.52.5",
 		"vision": "^4.1.1",
-		"webpack": "^2.7.0"
+		"webpack": "^5.75.0"
 	},
 	"scripts": {
 		"start": "node index.js",
